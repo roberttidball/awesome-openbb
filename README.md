@@ -113,7 +113,7 @@ The hosted solutions aren't hosted by OpenBB and can be disabled by the author o
 - API required: USD macro catalogue, history, and release-calendar data work without a key. Set `fxmacrodata_api_key` in OpenBB credentials or `FXMD_API_KEY` for protected coverage.
 - Author: [roberttidball](https://github.com/roberttidball), FXMacroData owner
 
-<img width="600" alt="FXMacroData EUR/USD macro indicators dashboard" src="https://fxmacrodata.com/static/demo-media/20260622-004305/03-eur-usd-dashboard-tour.png" />
+<img width="600" alt="FXMacroData live FX market summary with macro data" src="https://fxmacrodata.com/static/demo-media/20260622-004305/02-dashboard-market-summary-tour.png" />
 
 ---
 
